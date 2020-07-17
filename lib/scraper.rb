@@ -25,5 +25,5 @@ class Scraper
   
 end#class
 
-
+Scraper.new.get_page
 
